@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manassekpormegbe@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: They/He 😂 just kidding he/him
 - ⚡ Fun fact: ...
 
 <!---
