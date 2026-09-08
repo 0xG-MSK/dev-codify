@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dev-codify
+- 👋 Hi, I’m @oxsitso7
 - 👀 I’m interested in Software DeV, Web Dev & Networking
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me manassekpormegbe@gmail.com
-- 😄 Pronouns: They/He 😂 just kidding he/him
-- ⚡ Fun fact: ...
+- 😄 Pronouns: They/Them 😂 just kidding He/Him
+- ⚡ Fun fact: im a highschooler lol
 
 <!---
 dev-codify/dev-codify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
